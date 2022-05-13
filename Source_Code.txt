@@ -1,0 +1,227 @@
+<!DOCTYPE html> 
+<html>
+ <head>
+  <title> Profile: Rajindu Prabashwara </title>
+ </head>
+
+<body bgcolor="#E4E4E4">
+
+  <table width="100%" height="100%" bgcolor="#12897D" cellspacing="3">
+     <tr>
+	<td><font color="#FFFFFF" face="verdana" size="5">Rajindu Prabashwara</font></td>
+      	<td align="right" rowspan="3"><img src ="img\prof pic 4.jpg" alt="Profile Picture" width="140" height="160"></td>   
+     </tr>
+     
+	<tr>
+         <td><font color="#FFFFFF" face="verdana" size="2">Postgraduate student in Kyoto </font></td>
+        </tr>
+        
+       <tr>
+       	<td><font color="#FFFFFF" face="verdana" size="2">9+ Years of Banking & Finance Experience</font></td>
+       </tr>
+
+  </table>
+
+<audio controls autoplay>
+  <source src="aud\Japan-by-uniq.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+    
+<p><font face="Cursive"> Konnichiwa </font>. It is very exciting to live a life as a student here in this beautiful city "Kyoto". Check out these amazing sites around the city filled with Japanese culture.</p>
+
+<abbr title="Atago Torii"><img src ="img\kyoto\Atago Torii.jpg" alt="Photo of Atago Torii" width="250" height="150"></abbr>
+	<abbr title="Kinkaku-ji"><img src ="img\kyoto\Kinkaku-ji.jpg" alt="Photo of Kinkaku-ji" width="250" height="150"></abbr>
+<abbr title="Imperial Palace"><img src ="img\kyoto\Imperial Palace.jpg" alt="Photo of Imperial Palace" width="250" height="150"></abbr>
+	<abbr title="Daikaku-ji"><img src ="img\kyoto\Daikaku-ji.jpg" alt="Photo of Daikaku-ji" width="250" height="150"></abbr>
+<abbr title="Kifune Shrine"><img src ="img\kyoto\Kifune Shrine.jpg" alt="Photo of Kifune Shrine" width="250" height="150"></abbr>
+	<abbr title="Sagano Bamboo Forest"><img src ="img\kyoto\Sagano Bamboo Forest.jpg" alt="Photo of Sagano Bamboo Forest" width="250" height="150"></abbr>
+<abbr title="Shimogamo Jinja"><img src ="img\kyoto\Shimogamo Jinja.jpg" alt="Photo of Shimogamo Jinja" width="250" height="150"></abbr>
+	<abbr title="Tanukidani-san Fudō-in"><img src ="img\kyoto\Tanukidani-san Fudō-in.jpg" alt="Photo of Tanukidani-san Fudō-in" width="250" height="150"></abbr>
+<abbr title="Tenryū-ji"><img src ="img\kyoto\Tenryū-ji.jpg" alt="Photo of Tenryū-ji" width="250" height="150"></abbr>
+	<abbr title="Togetsukyō Bridge"><img src ="img\kyoto\Togetsukyō Bridge.jpg" alt="Photo of Togetsukyō Bridge" width="250" height="150"></abbr>
+
+<p>Want to explore? Visit <a href ="https://www.discoverkyoto.com/"><i>https://www.discoverkyoto.com</i></a> for more detiails.</p> 
+
+
+<p>Now, let me introduce myself. I am not a frequent traveller, but whenever I am being offered a decent opportunity to experience the beauty of the world, I would definitely take it. Being open to "Change" fuels my journey. Starting as a banking professional in my wonderful homeland-Sri Lanka<i>(You should check it out)</i>, travelling to Great India as an undergraduate student, experiencing sunny & sandy Middle-East as a banker again would be the milestones in my journey so far. The next stop is Kyoto-Japan. I am so excited to see how this will go into my journal. Looks interesting? Scroll down to see my record in detail.</p>
+
+<p> First, let's take a look at where I come from. </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q0mbKsKG-ng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h3> Academic Record </h3>
+  <table bgcolor="#F6F3F6" border="1px" bgcolor="#FFFFFF" cellpadding="8" cellspacing="3">
+   <tr>
+    <th scope=“col" width="1" bgcolor="#89F3DB"></th>
+    <th scope=“col">Year</th>
+    <th scope=“col">Discipline</th>
+    <th scope=“col">Institute</th>
+   </tr>
+    <tr>
+     <td bgcolor="#85F472"> </td>
+     <td>2022 <i>(Following)</i></td>
+     <td>Msc. in Information Technology</td>
+     <td>The Kyoto University of Graduate Studies for Informatics, Japan</td>
+     <td><a href ="https://www.kcg.edu/"><abbr title="https://www.kcg.edu/"><img src ="img\kcg1.jpg" width="150" height="50"></a></td>
+    </tr>
+  <tr>
+   <td bgcolor="#157AFB"> </td>
+   <td>2017</td>
+   <td>Bachelors Degree in Business Administration</td>
+   <td>Chhatrapati Shahu Ji Maharaj University (Kanpur University), India</td>
+   <th><a href ="http://csjmu.ac.in/"><abbr title="http://csjmu.ac.in/"><img src ="img\CSJM1.jpg" width="110" height="110"></th>
+  </tr>
+     <tr>
+      <td bgcolor ="#FE5B91"> </td>
+      <td>2015</td>
+      <td>Diploma in International Trade</td>
+      <td>Institute of Bankers of Sri Lanka</td>
+      <th><a href ="https://www.ibsl.lk/"><abbr title="https://www.ibsl.lk/"><img src ="img\IBSL1.jpg" width="150" height="80"></abbr></a></th>
+     </tr>  
+  </table>
+  
+<h3> Career Summary</h3>
+  <table bgcolor="#F6F3F6" border="1px" bgcolor="#FFFFFF" cellpadding="8" cellspacing="3">
+   <tr>
+    <th scope=“col" width="1" bgcolor="#89F3DB"></th>
+    <th scope=“col">Period</th>
+    <th scope=“col">Designation</th>
+    <th scope=“col">Employer</th>
+   </tr>
+     <tr>
+      <td bgcolor="#85F472"> </td>
+      <td>2017(Sep)-2021(Aug)</td>
+      <td>Senior Associate - Trade Operations</td>
+      <td>The Commercial Bank P.S.Q.C., Doha, Qatar</td>
+      <td><a href ="https://www.cbq.qa/"><abbr title="https://www.cbq.qa/"><img src ="img\COMBANK.jpg" width="150" height="90"></abbr></a></td>
+     </tr>
+        <tr>
+         <td bgcolor="#157AFB"> </td>
+         <td>2016(Oct)-2017(Aug)</td>
+         <td>Fund Administrator</td>
+         <td rowspan="3">HSBC Sri Lanka</td>
+         <td rowspan="3"><a href ="https://www.hsbc.lk/"><abbr title="https://www.hsbc.lk/"><img src ="img\HSBC3.jpg" width="150" height="70"></abbr></a></td>
+       </tr>
+   <tr>
+    <td bgcolor ="#FE5B91"> </td>
+    <td>2013(Nov)-2016(Oct)</td>
+    <td>Executive – Trade & Supply Chain</td>
+   </tr>  
+      <tr>
+       <td bgcolor ="#C473D4"> </td>
+       <td>2012(Nov)-2013(Nov)</td>
+       <td>Customer Service Executive</td>
+      </tr>  
+	</table>
+
+<h3>Certifications</h3>
+      <table bgcolor="#F6F3F6" border="1px" bgcolor="#FFFFFF" cellpadding="8" cellspacing="3">
+         <tr>
+          <th scope=“col" width="1" bgcolor="#89F3DB"></th>
+          <th scope=“col">Year</th>
+          <th scope=“col">Certification</th>
+          <th scope=“col">Awarded By</th>
+         </tr>
+	<tr>
+      <td bgcolor="#85F472"rowspan="2"> </td>
+      <td rowspan="2">2017</td>
+      <td>Coastline Solutions - Mentor 600 (UCP600 & Documentary Credits)</td>
+      <td rowspan="2">International Chamber of Commerce<i>(ICC)</i></td>
+      <td rowspan="2"><img src ="img\ICC.jpg" width="120" height="70"></td>
+	</tr>
+		<tr>
+         <td>Coastline Solutions - Incoterms 2010</td>
+        </tr>
+	<tr>
+      <td bgcolor="#FE5B91"> </td>
+      <td>2016)</td>
+      <td>ICA Anti-Money Laundering & Sanctions Compliance</td>
+      <td>The University of Manchester<i>(In association with HSBC)</i></td>
+      <td><img src ="img\MAN.jpg" width="130" height="70"></td>
+     </tr>
+   
+   
+     </table>
+     
+<h3>Highlights</h3>
+	<table bgcolor="#F6F3F6" border="1px" bgcolor="#FFFFFF" cellpadding="8" cellspacing="3">
+	  <tr>
+		<th scope=“col" width="1" bgcolor="#89F3DB"></th>
+        <th scope=“col">Experience</th>
+		<th scope=“col">Skills</th>
+		<th scope=“col">Interests</th>
+	  </tr>
+      
+      	<tr>
+         <td bgcolor="#85F472"> </td>
+         <td>Trade Finance</td>
+         <td>Leadership</td>
+         <td>Travel & Culture</td>
+        </tr>
+
+      	<tr>
+         <td bgcolor="#157AFB"> </td>
+         <td>Documentation</td>
+         <td>Teamwork</td>
+         <td>Art & Music</td>
+        </tr>
+        
+      	<tr>
+         <td bgcolor ="#FE5B91"> </td>
+         <td>Reconciliation</td>
+         <td>Innovative</td>
+         <td rowspan="2">History & Literature</td>
+        </tr>
+ 
+       	<tr>
+         <td bgcolor ="#C473D4"> </td>
+         <td>Customer Service</td>
+         <td>Analytics</td>
+        </tr>
+               
+     </table>
+     
+<h3> My Gallery </h3>  
+
+<abbr title="High School Life"><img src ="img\School.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+<abbr title="High School Life"><img src ="img\school2.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+<abbr title="High School Life"><img src ="img\School 4.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+	<abbr title="Into the Coporate World"><img src ="img\HSBC2.jpg" alt="Photo Gallery" width="180" height="150"></abbr>
+	<abbr title="Life at HSBC"><img src ="img\hsbc6.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+	<abbr title="Life at HSBC"><img src ="img\hsbc5.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+	<abbr title="Life at HSBC"><img src ="img\hsbc1.jpg" alt="Photo Gallery" width="180" height="150"></abbr>
+<abbr title="Graduation in India"><img src ="img\CSJM 2.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+<abbr title="Graduation in India"><img src ="img\CSJM.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+<abbr title="Graduation in India"><img src ="img\CSJM 3.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+	<abbr title="Back to the Coporate World"><img src ="img\COMBANK2.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+	<abbr title="Back to the Coporate World"><img src ="img\combank3.jpg" alt="Photo Gallery" width="180" height="150"></abbr>
+	<abbr title="Back to the Coporate World"><img src ="img\combank5.jpg" alt="Photo Gallery" width="180" height="150"></abbr>
+<abbr title="Site Seeing"><img src ="img\Travel.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+<abbr title="Site Seeing"><img src ="img\Travel1.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+<abbr title="Site Seeing"><img src ="img\Travel2.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+<abbr title="Site Seeing"><img src ="img\Travel3.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+<abbr title="Site Seeing"><img src ="img\Travel4.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+<abbr title="Site Seeing"><img src ="img\Travel5.jpg" alt="Photo Gallery" width="250" height="150"></abbr>
+
+     
+<h3> Contact Me </h3>
+   <ul>
+    <li> Email : <a href="mailto:rajindu@hotmail.com"> rajindu@hotmail.com </a> </li>
+    <li> Mobile Number : +81-70-181-14925 & +94-774431886 (Available in Whatsapp & Viber) </li>
+    <li> Address : Room 207, Chateu Wakakusa 351, Teranouchi Dori, Senbon Higaashiiru, Shininokumahigashi-Cho, Kamigyo-Ku, Kyoto 602-8494, Japan </li>
+  </ul>
+  
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d408.3623184765907!2d135.7433545825565!3d35.034267849561765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x510b998659aedd53!2z44K344Oj44OI44O86Iul6I2J!5e0!3m2!1sen!2sjp!4v1652174226439!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<p><i><b> Picture Credits: </b></i></p>
+<p>https://www.discoverkyoto.com/</p>
+
+<p><i><b> Music Credits: </b></i></p>
+<p> Japan by Uniq | https://soundcloud.com/uniqofficial/ </p>
+<p>Music promoted by https://www.chosic.com/free-music/all/ </p>
+<p>Attribution 4.0 International (CC BY 4.0) </p>
+<p>https://creativecommons.org/licenses/by/4.0/ </p>
+  
+ </body>
+
+</html> 
